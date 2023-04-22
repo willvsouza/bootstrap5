@@ -7,7 +7,7 @@
 
 <p> Para visualizar a versão mobile do site:
     <ul>
-        <li> <img src=".\assets\chrome-logo.png" width="25" height="25">Chrome: crtl + shift + I</li>
-        <li> <img src=".\assets\firefoxgit-logo.png" width="25" height="25">Firefox: crtl + shift + M</li>
+        <li> <img src=".\assets\chrome-logo.png" width="25" height="25"> Chrome: crtl + shift + I</li>
+        <li> <img src=".\assets\firefox-logo.png" width="25" height="25"> Firefox: crtl + shift + M</li>
     </ul>
 </p>
