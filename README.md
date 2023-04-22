@@ -12,3 +12,7 @@
 <h3> Aula 1 </h3>
 
 <p> Demostração da utilização do Grid para disposição dos conteúdos numa página. </p>
+
+<h3> Aula 2 </h3>
+
+<p> Demostração da utilização de um componente Navbar. </p>
