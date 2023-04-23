@@ -23,4 +23,4 @@ Criação de um site de notícias com utilização de Grid, ícones do fontaweso
 
 ### Aula 4
 
-Utilização de template num outro site em Bootstrap.
+Utilização de template gratuito em Bootstrap. Para visualização abra o "index.html" da paste template
