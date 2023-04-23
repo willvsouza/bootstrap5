@@ -9,14 +9,18 @@
     </ul>
 </p>
 
-<h3> Aula 1 </h3>
+### Aula 1
 
-<p> Demonstração da utilização do Grid para disposição dos conteúdos numa página. </p>
+Demonstração da utilização do Grid para disposição dos conteúdos numa página.
 
-<h3> Aula 2 </h3>
+### Aula 2
 
-<p> Demonstração da utilização de um componente Navbar. </p>
+Demonstração da utilização de um componente Navbar.
 
-<h3> Aula 3 </h3>
+### Aula 3
 
-<p> Criação de um site de notícias com utilização de Grid, ícones do fontawesome, Google fonts e de componentes do Bootstrap (Navbar, Carousel e Accordion). </p>
+Criação de um site de notícias com utilização de Grid, ícones do fontawesome, Google fonts e de componentes do Bootstrap (Navbar, Carousel e Accordion).
+
+### Aula 4
+
+Utilização de template num outro site em Bootstrap.
