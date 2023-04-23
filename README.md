@@ -16,3 +16,7 @@
 <h3> Aula 2 </h3>
 
 <p> Demonstração da utilização de um componente Navbar. </p>
+
+<h3> Aula 3 </h3>
+
+<p> Criação de um site de notícias com utilização de Grid, ícones do fontawesome, Google fonts e de componentes do Bootstrap (Navbar, Carousel e Accordion). </p>
